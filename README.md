@@ -7,16 +7,23 @@
 
 *Навыки*
 
-`Python`: Jupyter Notebook, Google Colab, PyCharm. Библиотеки: pandas, numpy, statsmodels, scipy, pingouin, prophet, seaborn, matplotlib
+`Python`
+Jupyter Notebook, Google Colab, PyCharm. Библиотеки: pandas, numpy, statsmodels, scipy, pingouin, prophet, seaborn, matplotlib
 
-`SQL`: PostgreSQL, Redash, ClickHouse. Написание сложных запросов, использование оконных функций
+`SQL`
+PostgreSQL, Redash, ClickHouse. Написание сложных запросов, использование оконных функций
 
-`BI-системы`: Tableau, DataLens, Looker
+`BI-системы`
+Tableau, DataLens, Looker
 
-`Статистические методы`: дисперсионный, факторный, корреляционный, регрессионный, когортный, кластерный анализы; T, Z, F, U, Хи тесты; бутстреп; A/A-сплитование, A/B-тесты; прогнозирование временных рядов
+`Статистические методы`
+дисперсионный, факторный, корреляционный, регрессионный, когортный, кластерный анализы; T, Z, F, U, Хи тесты; бутстреп; A/A-сплитование, A/B-тесты; прогнозирование временных рядов
 
-`Прочее`: MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, продуктовые метрики. 
+`Прочее`
+MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, продуктовые метрики. 
 
+`Другие области`
 Аудио-,видео-,фото-редакторы
 
-`Иностранный язык`: Английский – B1 – Средний
+`Иностранный язык`
+Английский – B1 – Средний
