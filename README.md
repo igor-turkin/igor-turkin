@@ -3,6 +3,6 @@
 
 Привет, меня зовут Игорь. Я учился на Инженера АСУ, а теперь пришел в аналитику данных. А еще занимаюсь шахматами
 
-<img src="images/DA.jpg" alt="дано" width="400"> 
+<img src="images/DA.jpg" alt="дано" width="400"> <img src="images/SQL.jpg" alt="дано" width="400"> 
 
-<img src="images/SQL.jpg" alt="дано" width="400"> 
+
