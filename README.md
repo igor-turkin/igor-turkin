@@ -27,3 +27,9 @@ MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, продуктовы
 
 `Иностранный язык`
 Английский – B1 – Средний
+
+##Проекты##
+
+| Проект | Описание | Стек |
+|----------------|-----------------|-----------------|
+|[repchess-project](https://github.com/igor-turkin/repchess-project)| Разработка системы сбора и обработки данных для шахматного клуба. Ведение статистики турниров и игроков  |  Python, Google Colab, Datalens|   
