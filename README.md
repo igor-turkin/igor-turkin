@@ -10,8 +10,9 @@
 ## Навыки
 
 * `Python` <br>
-Jupyter Notebook, Google Colab, PyCharm. Библиотеки: pandas, numpy, statsmodels, scipy, pingouin, prophet, seaborn, matplotlib <br>
-*`SQL` <br>
+Jupyter Notebook, Google Colab, PyCharm. <br>
+Библиотеки: pandas, numpy, statsmodels, scipy, pingouin, prophet, seaborn, matplotlib <br>
+* `SQL` <br>
 PostgreSQL, Redash, ClickHouse. Написание сложных запросов, использование оконных функций <br>
 * `BI-системы` <br>
 Tableau, DataLens, Looker <br>
@@ -36,4 +37,8 @@ MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, Продуктовы
 
 | Проект | Описание | Стек |
 |----------------|-----------------|-----------------|
-|[repchess-project](https://github.com/igor-turkin/repchess-project)| Разработка системы сбора и обработки данных для шахматного клуба. Ведение статистики турниров и игроков  |  Python, Google Colab, Datalens|   
+|[repchess-project](https://github.com/igor-turkin/repchess-project)| Разработка системы сбора и обработки данных для шахматного клуба. Ведение статистики турниров и игроков  |Python, Google Colab, Datalens|
+|||
+|||
+|||
+|||
