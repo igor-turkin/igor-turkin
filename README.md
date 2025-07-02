@@ -12,7 +12,7 @@
 Jupyter Notebook, Google Colab, PyCharm. <br>
 Библиотеки: pandas, numpy, statsmodels, scipy, pingouin, prophet, seaborn, matplotlib <br>
 * `SQL` <br>
-PostgreSQL, Redash, ClickHouse. Написание сложных запросов, Оконные функций <br>
+PostgreSQL, Redash, ClickHouse. Написание сложных запросов, Оконные функции <br>
 * `BI-системы` <br>
 Tableau, DataLens, Looker <br>
 * `Статистические методы` <br>
