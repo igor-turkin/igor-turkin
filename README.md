@@ -9,24 +9,24 @@
 
 ## Навыки
 
-`Python`
+* `Python`
 Jupyter Notebook, Google Colab, PyCharm. Библиотеки: pandas, numpy, statsmodels, scipy, pingouin, prophet, seaborn, matplotlib <br>
-`SQL`
+*`SQL`
 PostgreSQL, Redash, ClickHouse. Написание сложных запросов, использование оконных функций <br>
-`BI-системы`
+* `BI-системы`
 Tableau, DataLens, Looker <br>
-`Статистические методы`
+* `Статистические методы`
 дисперсионный, факторный, корреляционный, регрессионный, когортный, кластерный анализы; T, Z, F, U, Хи тесты; бутстреп; A/A-сплитование, A/B-тесты; прогнозирование временных рядов <br>
-`Прочее`
-MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, продуктовые метрики. <br> 
-`Другие области`
+* `Прочее`
+MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, Продуктовые метрики. <br> 
+* `Другие области`
 Аудио-, видео- ,фото-редакторы <br>
-`Иностранный язык`
+* `Иностранный язык`
 Английский – B1 – Средний <br>
 
 
 <details>	
-## Сертификаты  <summary><b> </b></summary>
+## Сертификаты  <summary><b>раскрыть </b></summary>
 
 <img src="images/DA.jpg" alt="sert1" width="400"> <img src="images/SQL.jpg" alt="sert2" width="400"> 
 <img src="images/BI.jpg" alt="sert3" width="400"> <img src="images/Stats.jpg" alt="sert4" width="400"> 
