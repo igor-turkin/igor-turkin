@@ -1,5 +1,3 @@
-<img align="right" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400">
-
 ### Обо мне
 <img align="right" src="images/monkeys.gif" width="400">
 Привет, меня зовут Игорь. Я учился на Инженера АСУ, а теперь пришел в аналитику данных. А еще занимаюсь шахматами. Коллекционирую чашки у монитора
