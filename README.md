@@ -1,4 +1,4 @@
-### Обо мне <img align="right" src="images/monkeys.gif" style="float: left; margin-left: 30; margin-bottom: 30;" width="300">
+## Обо мне <img align="right" src="images/monkeys.gif" style="float: left; margin-left: 30; margin-bottom: 30;" width="300">
 
 <i>Привет, меня зовут Игорь. Я учился в МИСИС на Инженера автоматизированных систем управления, а теперь пришел в Аналитику данных. А в промежутке между этими событиями еще успел побыть музыкальным звукорежиссером.</i>
 
