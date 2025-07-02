@@ -21,8 +21,6 @@ Tableau, DataLens, Looker <br>
 MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, Продуктовые метрики. <br> 
 * `Другие области` <br>
 Аудио-, видео- ,фото-редакторы <br>
-* `Иностранный язык` <br>
-Английский – B1 – Средний <br>
 
 ### Курсы 
 <details>	
