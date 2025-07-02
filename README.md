@@ -28,7 +28,14 @@ MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, продуктовы
 `Иностранный язык`
 Английский – B1 – Средний
 
-##Проекты##
+## Сертификаты
+<details>	 
+  <summary><b>☄️ Курсы</b></summary>
+
+<img src="images/DA.jpg" alt="дано" width="400"> <img src="images/SQL.jpg" alt="дано" width="400"> 
+</details>
+
+## Проекты
 
 | Проект | Описание | Стек |
 |----------------|-----------------|-----------------|
