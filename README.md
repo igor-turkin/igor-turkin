@@ -20,7 +20,7 @@ Tableau, DataLens, Looker <br>
 * `Прочее` <br>
 MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, Продуктовые метрики. <br> 
 * `Другие области` <br>
-Аудио-, видео- ,фото-редакторы <br>
+Аудио-, видео- ,фото-редакторы: Reaper, Cubase, Vegas Pro, Photoshop <br>
 
 ### Курсы 
 <details>	
