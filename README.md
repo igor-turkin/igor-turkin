@@ -1,12 +1,12 @@
-## Обо мне <img align="right" src="images/monkeys.gif" style="float: left; margin-left: 30; margin-bottom: 30;" width="300">
-
+## Обо мне 
+<img align="right" src="images/monkeys.gif" style="float: left; margin-left: 30; margin-bottom: 30;" width="300">
 <i>Привет, меня зовут Игорь. Я учился в МИСИС на Инженера автоматизированных систем управления, а теперь пришел в Аналитику данных. А в промежутке между этими событиями еще успел побыть музыкальным звукорежиссером.</i>
 
 #### Контакты:
 *  https://t.me/igor_pvalue
 *  igor.pvalue@gmail.com
 
-### Навыки
+## Навыки
 
 * `Python` <br>
 Jupyter Notebook, Google Colab, PyCharm. <br>
@@ -22,7 +22,7 @@ MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, Продуктовы
 * `Другие области` <br>
 Аудио-, видео- ,фото-редакторы: Reaper, Cubase, Vegas Pro, Photoshop <br>
 
-### Курсы 
+## Курсы 
 <details>	
  <summary><b> Сертификаты </b></summary>
 
@@ -30,7 +30,7 @@ MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, Продуктовы
 <img src="images/BI.jpg" alt="sert3" width="400"> <img src="images/Stats.jpg" alt="sert4" width="400"> 
 </details>	
 
-### Проекты
+## Проекты
 
 | Проект | Описание | Стек |
 |----------------|-----------------|-----------------|
