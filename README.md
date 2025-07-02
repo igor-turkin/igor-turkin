@@ -1,11 +1,11 @@
 
-*Обо мне*
+## Обо мне
 
 Привет, меня зовут Игорь. Я учился на Инженера АСУ, а теперь пришел в аналитику данных. А еще занимаюсь шахматами. Коллекционирую чашки у монитора
 
 <img src="images/DA.jpg" alt="дано" width="400"> <img src="images/SQL.jpg" alt="дано" width="400"> 
 
-*Навыки*
+## Навыки
 
 `Python`
 Jupyter Notebook, Google Colab, PyCharm. Библиотеки: pandas, numpy, statsmodels, scipy, pingouin, prophet, seaborn, matplotlib
@@ -28,11 +28,12 @@ MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, продуктовы
 `Иностранный язык`
 Английский – B1 – Средний
 
-## Сертификаты
-<details>	 
-  <summary><b>☄️ Курсы</b></summary>
 
-<img src="images/DA.jpg" alt="дано" width="400"> <img src="images/SQL.jpg" alt="дано" width="400"> 
+<details>	 
+  <summary><b>## Сертификаты </b></summary>
+
+<img src="images/DA.jpg" alt="sert1" width="400"> <img src="images/SQL.jpg" alt="sert2" width="400"> 
+<img src="images/BI.jpg" alt="sert3" width="400"> <img src="images/Stats.jpg" alt="sert4" width="400"> 
 </details>
 
 ## Проекты
