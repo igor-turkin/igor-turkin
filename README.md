@@ -27,12 +27,12 @@ MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, продуктовы
 Английский – B1 – Средний
 
 
-<details>	 
+ 
   <summary><b>## Сертификаты </b></summary>
 
 <img src="images/DA.jpg" alt="sert1" width="400"> <img src="images/SQL.jpg" alt="sert2" width="400"> 
 <img src="images/BI.jpg" alt="sert3" width="400"> <img src="images/Stats.jpg" alt="sert4" width="400"> 
-</details>
+
 
 ## Проекты
 
