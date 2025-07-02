@@ -3,32 +3,30 @@
 
 Привет, меня зовут Игорь. Я учился на Инженера АСУ, а теперь пришел в аналитику данных. А еще занимаюсь шахматами. Коллекционирую чашки у монитора
 
+### Контакты:
+*  https://t.me/igor_pvalue
+*  igor.pvalue@gmail.com
+
 ## Навыки
 
 `Python`
-Jupyter Notebook, Google Colab, PyCharm. Библиотеки: pandas, numpy, statsmodels, scipy, pingouin, prophet, seaborn, matplotlib
-
+Jupyter Notebook, Google Colab, PyCharm. Библиотеки: pandas, numpy, statsmodels, scipy, pingouin, prophet, seaborn, matplotlib <br>
 `SQL`
-PostgreSQL, Redash, ClickHouse. Написание сложных запросов, использование оконных функций
-
+PostgreSQL, Redash, ClickHouse. Написание сложных запросов, использование оконных функций <br>
 `BI-системы`
-Tableau, DataLens, Looker
-
+Tableau, DataLens, Looker <br>
 `Статистические методы`
-дисперсионный, факторный, корреляционный, регрессионный, когортный, кластерный анализы; T, Z, F, U, Хи тесты; бутстреп; A/A-сплитование, A/B-тесты; прогнозирование временных рядов
-
+дисперсионный, факторный, корреляционный, регрессионный, когортный, кластерный анализы; T, Z, F, U, Хи тесты; бутстреп; A/A-сплитование, A/B-тесты; прогнозирование временных рядов <br>
 `Прочее`
-MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, продуктовые метрики. 
-
+MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, продуктовые метрики. <br> 
 `Другие области`
-Аудио-,видео-,фото-редакторы
-
+Аудио-, видео- ,фото-редакторы <br>
 `Иностранный язык`
-Английский – B1 – Средний
+Английский – B1 – Средний <br>
 
-## Сертификаты
+
 <details>	
-  <summary><b> </b></summary>
+## Сертификаты  <summary><b> </b></summary>
 
 <img src="images/DA.jpg" alt="sert1" width="400"> <img src="images/SQL.jpg" alt="sert2" width="400"> 
 <img src="images/BI.jpg" alt="sert3" width="400"> <img src="images/Stats.jpg" alt="sert4" width="400"> 
