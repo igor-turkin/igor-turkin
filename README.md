@@ -1,19 +1,20 @@
+<img align="right" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400">
 
-## Обо мне
-
+### Обо мне
+<img align="right" src="images/monkeys.gif" width="400">
 Привет, меня зовут Игорь. Я учился на Инженера АСУ, а теперь пришел в аналитику данных. А еще занимаюсь шахматами. Коллекционирую чашки у монитора
 
-### Контакты:
+#### Контакты:
 *  https://t.me/igor_pvalue
 *  igor.pvalue@gmail.com
 
-## Навыки
+### Навыки
 
 * `Python` <br>
 Jupyter Notebook, Google Colab, PyCharm. <br>
 Библиотеки: pandas, numpy, statsmodels, scipy, pingouin, prophet, seaborn, matplotlib <br>
 * `SQL` <br>
-PostgreSQL, Redash, ClickHouse. Написание сложных запросов, использование оконных функций <br>
+PostgreSQL, Redash, ClickHouse. Написание сложных запросов, Оконные функций <br>
 * `BI-системы` <br>
 Tableau, DataLens, Looker <br>
 * `Статистические методы` <br>
@@ -25,7 +26,7 @@ MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, Продуктовы
 * `Иностранный язык` <br>
 Английский – B1 – Средний <br>
 
-## Курсы 
+### Курсы 
 <details>	
  <summary><b> Сертификаты </b></summary>
 
@@ -33,7 +34,7 @@ MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, Продуктовы
 <img src="images/BI.jpg" alt="sert3" width="400"> <img src="images/Stats.jpg" alt="sert4" width="400"> 
 </details>	
 
-## Проекты
+### Проекты
 
 | Проект | Описание | Стек |
 |----------------|-----------------|-----------------|
