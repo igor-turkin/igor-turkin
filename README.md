@@ -11,7 +11,7 @@
 * <img src="images/icons/python.png" align="absmiddle" width="20"> `Python` <br>
 Jupyter Notebook, Google Colab, PyCharm. <br>
 Библиотеки: pandas, numpy, statsmodels, scipy, pingouin, prophet, seaborn, matplotlib <br>
-* `SQL` <br>
+* <img src="images/icons/sql.png" align="absmiddle" width="20"> `SQL` <br>
 PostgreSQL, Redash, ClickHouse. Написание сложных запросов, Оконные функции <br>
 * <img src="images/icons/BI.png" align="absmiddle" width="20"> `BI-системы` <br>
 Tableau, DataLens, Looker <br>
