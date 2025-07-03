@@ -8,16 +8,16 @@
 
 ## Навыки
 
-* <img src="images/icons/python.png" align="absmiddle" width="20"> `Python` <br>
+* <img src="images/icons/python2.png" align="absmiddle" width="20"> `Python` <br>
 Jupyter Notebook, Google Colab, PyCharm. <br>
 Библиотеки: pandas, numpy, statsmodels, scipy, pingouin, prophet, seaborn, matplotlib <br>
 * <img src="images/icons/sql.png" align="absmiddle" width="20"> `SQL` <br>
 PostgreSQL, Redash, ClickHouse. Написание сложных запросов, Оконные функции <br>
-* <img src="images/icons/BI.png" align="absmiddle" width="20"> `BI-системы` <br>
+* <img src="images/icons/BI2.png" align="absmiddle" width="20"> `BI-системы` <br>
 Tableau, DataLens, Looker <br>
 * <img src="images/icons/stats.png" align="absmiddle" width="20"> `Статистические методы` <br>
 дисперсионный, факторный, корреляционный, регрессионный, когортный, кластерный анализы; T, Z, F, U, Хи тесты; бутстреп; A/A-сплитование, A/B-тесты; прогнозирование временных рядов <br>
-* <img src="images/icons/pc.png" align="absmiddle" width="20"> `Прочее` <br>
+* <img src="images/icons/pc.png" align="absmiddle" width="20"> `Прочие` <br>
 MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, Продуктовые метрики. <br> 
 * <img src="images/icons/multimedia.png" align="absmiddle" width="20"> `Другие области` <br>
 Мультимедиа редакторы: Reaper, Cubase, Vegas Pro, Photoshop <br>
