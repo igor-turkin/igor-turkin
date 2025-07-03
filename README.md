@@ -16,7 +16,7 @@ PostgreSQL, Redash, ClickHouse. Написание сложных запросо
 * <img src="images/icons/BI2.png" align="absmiddle" width="20"> `BI-системы` <br>
 Tableau, DataLens, Looker <br>
 * <img src="images/icons/stats.png" align="absmiddle" width="20"> `Статистические методы` <br>
-Дисперсионный, многофакторный, корреляционный, регрессионный, когортный, кластерный анализы; T, Z, F, U, Хи тесты; бутстреп; A/A-сплитование, A/B-тесты; прогнозирование временных рядов <br>
+Дисперсионный, многофакторный, корреляционный, регрессионный, когортный, кластерный анализы; RFM-сегментация; T, Z, F, U, Хи тесты; бутстреп; A/A-сплитование, A/B-тесты; прогнозирование временных рядов <br>
 * <img src="images/icons/pc.png" align="absmiddle" width="20"> `Прочие` <br>
 MS Office, GPower, Git, Airflow, AutoHotkey, Unit-economic, Продуктовые метрики <br> 
 * <img src="images/icons/multimedia.png" align="absmiddle" width="20"> `Другие области` <br>
