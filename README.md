@@ -14,7 +14,7 @@ Jupyter Notebook, Google Colab, PyCharm. <br>
 * <img src="images/icons/sql.png" align="absmiddle" width="20"> `SQL` <br>
 PostgreSQL, Redash, ClickHouse. Написание сложных запросов, Оконные функции <br>
 * <img src="images/icons/BI2.png" align="absmiddle" width="20"> `BI-системы` <br>
-Tableau, DataLens, Looker <br>
+Tableau, DataLens <br>
 * <img src="images/icons/stats.png" align="absmiddle" width="20"> `Статистические методы` <br>
 Дисперсионный, многофакторный, корреляционный, регрессионный, когортный, кластерный анализы; RFM-сегментация; T, Z, F, U, Хи тесты; бутстреп; A/A-сплитование, A/B-тесты; Прогнозирование временных рядов; Продуктовые метрики <br>
 * <img src="images/icons/pc.png" align="absmiddle" width="20"> `Прочие` <br>
