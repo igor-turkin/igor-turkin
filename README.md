@@ -28,6 +28,7 @@ MS Office, GPower, Git, Airflow, AutoHotkey, HTML, Unit-economic<br>
 
 <img src="images/DA.jpg" alt="sert1" width="400"> <img src="images/SQL.jpg" alt="sert2" width="400"> 
 <img src="images/BI.jpg" alt="sert3" width="400"> <img src="images/Stats.jpg" alt="sert4" width="400"> 
+<img src="images/shad.jpg" alt="sert3" width="400">
 </details>	
 
 ## Проекты
