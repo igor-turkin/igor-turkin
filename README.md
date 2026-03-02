@@ -4,7 +4,7 @@
 
 ### Контакты:
 *  <img src="images/icons/tg.png" align="absmiddle" width="20"> https://t.me/igor_pvalue
-*  <img src="images/icons/mail.png" align="absmiddle" width="20"> igor.pvalue@gmail.com
+*  <img src="images/icons/mail.png" align="absmiddle" width="20"> turkin.pvalue@gmail.com
 
 ## Навыки
 
